@@ -1,3 +1,7 @@
+# Starting Json Server
+
+We are using json-server here to start our json based db.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
