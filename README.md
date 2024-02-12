@@ -1,6 +1,7 @@
 # Starting Json Server
 
 We are using json-server here to start our json based db.
+json-server --watch data/traveldb.json --port 5001
 
 # Getting Started with Create React App
 
